@@ -1,6 +1,7 @@
 
 
 
+<h3 align="center"> ⚙️ My GitHub Status ⚙️ </h3>
 <table>
   <tr>
     <td style="padding: 0; text-align: center;">
@@ -24,24 +25,11 @@
 </table>
 
 
-<table>
-  <tr>
-    <td style="padding: 0; text-align: center;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      </a>    
-    </td>
-    <td style="padding: 0; text-align: center;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 0; text-align: center;">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
