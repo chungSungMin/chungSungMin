@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungSungMin&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungSungMin_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungSungMin&show_icons=true&theme=radical)
