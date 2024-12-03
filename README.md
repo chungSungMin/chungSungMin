@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=1c1c1e&text=%20JSMf%20&height=100%&fontSize=100&textBg=true)<table>
 
   <tr>
     <td style="padding: 0; text-align: center;">
@@ -20,3 +19,8 @@
     </td>
   </tr>
 </table>
+
+
+
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
