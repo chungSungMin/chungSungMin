@@ -1,4 +1,4 @@
-
+<h1 align="center"> Seung Min Chung</h1>
 
 
 <h3 align="center"> ⚙️ My GitHub Status ⚙️ </h3>
