@@ -1,4 +1,7 @@
 
+
+
+<table>
   <tr>
     <td style="padding: 0; text-align: center;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,6 +24,24 @@
 </table>
 
 
-
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
+<table>
+  <tr>
+    <td style="padding: 0; text-align: center;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </a>    
+    </td>
+    <td style="padding: 0; text-align: center;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 0; text-align: center;">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+      </a>
+    </td>
+  </tr>
+</table>
