@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungMinChung&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungSungMin&layout=compact)
