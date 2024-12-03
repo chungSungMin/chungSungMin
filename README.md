@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20JSMf%20&height=300&fontSize=100&textBg=true)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=black&text=%20JSM%20&height=300&fontSize=100&textBg=true)
 <table>
   <tr>
     <td style="padding: 0; text-align: center;">
