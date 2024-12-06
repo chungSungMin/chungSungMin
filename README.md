@@ -8,7 +8,12 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taky0315)](https://solved.ac/taky0315/)
+
 </div>
+
+
 
 <br>
 
@@ -34,5 +39,6 @@
     </td>
   </tr>
 </table>
+
 
 
